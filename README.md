@@ -48,6 +48,7 @@ I'm currently diving into the world of **Web3** and plan to pursue a career in t
 ## 📫 Connect with Me
 - ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white) [@hancslwh](https://x.com/hancslwh)
 - ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) [@CavnHan](https://t.me/CavnHan)
+- ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white) [hancslwh@gmail.com](mailto:hancslwh@gmail.com)
 
 ---
 
