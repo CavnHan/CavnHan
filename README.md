@@ -15,18 +15,8 @@ I'm currently diving into the world of **Web3** and plan to pursue a career in t
 ![Move](https://img.shields.io/badge/Move-4E8BFF?style=flat-square&logo=move&logoColor=white)
 
 ### 🌍 Languages
-<table>
-  <tr>
-    <td style="vertical-align: middle;">
-      <img src="https://img.shields.io/badge/English-0072B1?style=flat-square&logo=language&logoColor=white" alt="English" style="height: 20px;"/> 
-      <span style="vertical-align: middle; line-height: 20px;"> **(Learner)**</span>
-    </td>
-    <td style="vertical-align: middle;">
-      <img src="https://img.shields.io/badge/Japanese-FF2D00?style=flat-square&logo=language&logoColor=white" alt="Japanese" style="height: 20px;"/> 
-      <span style="vertical-align: middle; line-height: 20px;"> **(Learner)**</span>
-    </td>
-  </tr>
-</table>
+- ![English](https://img.shields.io/badge/English-0072B1?style=flat-square&logo=language&logoColor=white) **(Learner)**
+- ![Japanese](https://img.shields.io/badge/Japanese-FF2D00?style=flat-square&logo=language&logoColor=white) **(Learner)**
 
 ---
 
@@ -56,14 +46,14 @@ I'm currently diving into the world of **Web3** and plan to pursue a career in t
 ---
 
 ## 📫 Connect with Me
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <a href="https://x.com/hancslwh" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" style="vertical-align: middle; height: 20px;"/> 
-        <span style="vertical-align: middle; line-height: 20px;">@hancslwh</span>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://t.me/CavnHan" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" style="vertical-align: 
+- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white) [@hancslwh](https://x.com/hancslwh)
+- ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) [@CavnHan](https://t.me/CavnHan)
+
+---
+
+## 🐍 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CavnHan/CavnHan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CavnHan/CavnHan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CavnHan/CavnHan/output/github-contribution-grid-snake.svg">
+</picture>
