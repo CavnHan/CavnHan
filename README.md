@@ -46,8 +46,20 @@ I'm currently diving into the world of **Web3** and plan to pursue a career in t
 ---
 
 ## 📫 Connect with Me
-- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white) [@hancslwh](https://x.com/hancslwh)
-- ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) [@CavnHan](https://t.me/CavnHan)
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://x.com/hancslwh" target="_blank">
+        ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white) @hancslwh
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://t.me/CavnHan" target="_blank">
+        ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) @CavnHan
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -55,5 +67,4 @@ I'm currently diving into the world of **Web3** and plan to pursue a career in t
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CavnHan/CavnHan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CavnHan/CavnHan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CavnHan/CavnHan/output/github-contribution-grid-snake.svg">
-</picture>
+  <img alt="github contribution 
