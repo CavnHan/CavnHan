@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=CavnHan" style="width: 400px;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=CavnHan" style="width: 400px; height: 200px;" />
     </td>
     <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavnHan&layout=compact" style="width: 400px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavnHan&layout=compact" style="width: 400px; height: 200px;" />
     </td>
   </tr>
 </table>
