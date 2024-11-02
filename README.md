@@ -36,8 +36,12 @@ I'm currently diving into the world of **Web3** and plan to pursue a career in t
 ---
 
 ## 🌱 Current Projects
-- **Wallet Development**: Exploring features like multi-signature support and transaction tracking.
-- **Smart Contracts**: Developing contracts for various DeFi applications and NFT projects.
+### Wallet Development
+- **Crypto Wallet SDK**: A versatile SDK for wallets across various blockchains. [View Project](https://github.com/CavnHan/crypto-wallet-sdk)
+- **Wallet Chain Account**: A large-scale project that enables one-click wallet creation. [View Project](https://github.com/CavnHan/wallet-chain-account)
+
+### Smart Contracts
+- *(Coming Soon)*
 
 ---
 
