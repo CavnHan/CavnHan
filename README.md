@@ -17,6 +17,8 @@ I'm currently diving into the world of **Web3** and plan to pursue a career in t
 ### 🌍 Languages
 - ![English](https://img.shields.io/badge/English-0072B1?style=flat-square&logo=language&logoColor=white) **(Learner)**
 - ![Japanese](https://img.shields.io/badge/Japanese-FF2D00?style=flat-square&logo=language&logoColor=white) **(Learner)**
+- ![Russian](https://img.shields.io/badge/Russian-005EB8?style=flat-square&logo=language&logoColor=white) **(Learner)**
+
 
 ---
 
