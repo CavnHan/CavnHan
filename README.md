@@ -1,4 +1,4 @@
-# 👋 Hello, I'm CavnHan!
+# 👋 Hello, I'm Andy!
 
 ## 🚀 About Me
 I'm currently diving into the world of **Web3** and plan to pursue a career in this exciting field. My focus is on **wallet development** and **smart contract** development, where I'm gaining hands-on experience and honing my skills.
